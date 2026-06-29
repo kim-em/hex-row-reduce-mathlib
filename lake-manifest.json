@@ -31,10 +31,10 @@
       "type": "git",
       "subDir": null,
       "scope": "",
-      "rev": "94b9e0043b9ba8b768b3fa9a93d7cd6d48a3c8f3",
+      "rev": "f82baeb85bece5c9f33b52a91c3cb30950107209",
       "name": "HexRowReduce",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "94b9e0043b9ba8b768b3fa9a93d7cd6d48a3c8f3",
+      "inputRev": "f82baeb85bece5c9f33b52a91c3cb30950107209",
       "inherited": false,
       "configFile": "lakefile.toml"
     },
