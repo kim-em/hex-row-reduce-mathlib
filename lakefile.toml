@@ -9,12 +9,12 @@ rev = "f1580d28c2e9ff9e8d4d7cdef9dccbaa17780b03"
 [[require]]
 name = "HexRowReduce"
 git = "https://github.com/kim-em/hex-row-reduce.git"
-rev = "922d066445a6a9e2deb2cad5cca099b2dad2c98e"
+rev = "48a6d92ac69e1fd6b3b1a86be9cb793a76e000c2"
 
 [[require]]
 name = "HexMatrixMathlib"
 git = "https://github.com/kim-em/hex-matrix-mathlib.git"
-rev = "a712810da16f8b2d0322d79c0deb64c1290a4ca9"
+rev = "ba8b22af8a25fe7fa6db3b3637fdb1dca492c38a"
 
 [[require]]
 name = "mathlib"
