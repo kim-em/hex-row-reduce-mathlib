@@ -4,17 +4,17 @@ defaultTargets = ["HexRowReduceMathlib"]
 [[require]]
 name = "HexBasic"
 git = "https://github.com/kim-em/hex-basic.git"
-rev = "c9cb6bcb3287ea0870f66c9dfcba08baa08f97f6"
+rev = "f1580d28c2e9ff9e8d4d7cdef9dccbaa17780b03"
 
 [[require]]
 name = "HexRowReduce"
 git = "https://github.com/kim-em/hex-row-reduce.git"
-rev = "30839abafa39e1a93ddc1e586a3d57e2f4daa0c6"
+rev = "922d066445a6a9e2deb2cad5cca099b2dad2c98e"
 
 [[require]]
 name = "HexMatrixMathlib"
 git = "https://github.com/kim-em/hex-matrix-mathlib.git"
-rev = "fd01fba69095034c7ee992c488017bd9da1b94a9"
+rev = "a712810da16f8b2d0322d79c0deb64c1290a4ca9"
 
 [[require]]
 name = "mathlib"
