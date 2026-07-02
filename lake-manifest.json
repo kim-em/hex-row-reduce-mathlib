@@ -3,7 +3,7 @@
   "packagesDir": ".lake/packages",
   "packages": [
     {
-      "url": "https://github.com/kim-em/hex-basic.git",
+      "url": "https://github.com/leanprover/hex-basic.git",
       "type": "git",
       "subDir": null,
       "scope": "",
@@ -27,26 +27,26 @@
       "configFile": "lakefile.lean"
     },
     {
-      "url": "https://github.com/kim-em/hex-matrix-mathlib.git",
+      "url": "https://github.com/leanprover/hex-matrix-mathlib.git",
       "type": "git",
       "subDir": null,
       "scope": "",
-      "rev": "ba8b22af8a25fe7fa6db3b3637fdb1dca492c38a",
+      "rev": "a0ae2639613d29f73a5fe5abccd7749af8f9a67c",
       "name": "HexMatrixMathlib",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "ba8b22af8a25fe7fa6db3b3637fdb1dca492c38a",
+      "inputRev": "a0ae2639613d29f73a5fe5abccd7749af8f9a67c",
       "inherited": false,
       "configFile": "lakefile.toml"
     },
     {
-      "url": "https://github.com/kim-em/hex-row-reduce.git",
+      "url": "https://github.com/leanprover/hex-row-reduce.git",
       "type": "git",
       "subDir": null,
       "scope": "",
-      "rev": "48a6d92ac69e1fd6b3b1a86be9cb793a76e000c2",
+      "rev": "45d47a67f4300792df1e371e099b9ac6862273f0",
       "name": "HexRowReduce",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "48a6d92ac69e1fd6b3b1a86be9cb793a76e000c2",
+      "inputRev": "45d47a67f4300792df1e371e099b9ac6862273f0",
       "inherited": false,
       "configFile": "lakefile.toml"
     },
@@ -135,14 +135,14 @@
       "configFile": "lakefile.toml"
     },
     {
-      "url": "https://github.com/kim-em/hex-matrix.git",
+      "url": "https://github.com/leanprover/hex-matrix.git",
       "type": "git",
       "subDir": null,
       "scope": "",
-      "rev": "7359d9c53c3d85309b526dd1663a33b28a28bf50",
+      "rev": "42c865718206dc1c2e63e3fc0ebb94db8174bd12",
       "name": "HexMatrix",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "7359d9c53c3d85309b526dd1663a33b28a28bf50",
+      "inputRev": "42c865718206dc1c2e63e3fc0ebb94db8174bd12",
       "inherited": true,
       "configFile": "lakefile.toml"
     },

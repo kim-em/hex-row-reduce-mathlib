@@ -3,18 +3,18 @@ defaultTargets = ["HexRowReduceMathlib"]
 
 [[require]]
 name = "HexBasic"
-git = "https://github.com/kim-em/hex-basic.git"
+git = "https://github.com/leanprover/hex-basic.git"
 rev = "f1580d28c2e9ff9e8d4d7cdef9dccbaa17780b03"
 
 [[require]]
 name = "HexRowReduce"
-git = "https://github.com/kim-em/hex-row-reduce.git"
-rev = "48a6d92ac69e1fd6b3b1a86be9cb793a76e000c2"
+git = "https://github.com/leanprover/hex-row-reduce.git"
+rev = "45d47a67f4300792df1e371e099b9ac6862273f0"
 
 [[require]]
 name = "HexMatrixMathlib"
-git = "https://github.com/kim-em/hex-matrix-mathlib.git"
-rev = "ba8b22af8a25fe7fa6db3b3637fdb1dca492c38a"
+git = "https://github.com/leanprover/hex-matrix-mathlib.git"
+rev = "a0ae2639613d29f73a5fe5abccd7749af8f9a67c"
 
 [[require]]
 name = "mathlib"
